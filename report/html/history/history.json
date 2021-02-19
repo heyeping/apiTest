@@ -9,31 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d650ef137790e8c0",
+      "uid" : "4fb4867fc186562",
       "status" : "passed",
       "time" : {
-        "start" : 1613543564142,
-        "stop" : 1613543564602,
-        "duration" : 460
-      }
-    } ]
-  },
-  "f9a3a528aa08d345b131e068670a2332" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "b2a701759dcb39ad",
-      "status" : "passed",
-      "time" : {
-        "start" : 1613543560498,
-        "stop" : 1613543560668,
-        "duration" : 170
+        "start" : 1613702471612,
+        "stop" : 1613702471742,
+        "duration" : 130
       }
     } ]
   },
@@ -47,12 +28,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f57108ea7511d01d",
+      "uid" : "3e89ba03a684686b",
       "status" : "passed",
       "time" : {
-        "start" : 1613543560217,
-        "stop" : 1613543560493,
-        "duration" : 276
+        "start" : 1613702470815,
+        "stop" : 1613702471117,
+        "duration" : 302
+      }
+    } ]
+  },
+  "f9a3a528aa08d345b131e068670a2332" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4037d9912192fef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613702471121,
+        "stop" : 1613702471240,
+        "duration" : 119
       }
     } ]
   },
@@ -66,12 +66,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "62d9884bfd52cfed",
+      "uid" : "8c06ff3458b069a4",
       "status" : "passed",
       "time" : {
-        "start" : 1613543560055,
-        "stop" : 1613543560213,
-        "duration" : 158
+        "start" : 1613702470660,
+        "stop" : 1613702470811,
+        "duration" : 151
       }
     } ]
   },
@@ -85,12 +85,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "76dfec78aff5476",
+      "uid" : "b5dda47a460f7913",
       "status" : "passed",
       "time" : {
-        "start" : 1613543558340,
-        "stop" : 1613543560051,
-        "duration" : 1711
+        "start" : 1613702470300,
+        "stop" : 1613702470653,
+        "duration" : 353
       }
     } ]
   },
@@ -104,13 +104,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f6409a38971b6460",
+      "uid" : "efdf6fdd7b790587",
       "status" : "failed",
       "statusDetails" : "AssertionError: 断言失败 -|- 实际结果:房间名已存在 || 预期结果: success",
       "time" : {
-        "start" : 1613543560672,
-        "stop" : 1613543564074,
-        "duration" : 3402
+        "start" : 1613702471244,
+        "stop" : 1613702471532,
+        "duration" : 288
       }
     } ]
   }

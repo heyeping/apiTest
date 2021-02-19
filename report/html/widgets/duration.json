@@ -1,60 +1,60 @@
 [ {
-  "uid" : "b2a701759dcb39ad",
-  "name" : "设备列表",
-  "time" : {
-    "start" : 1613543560498,
-    "stop" : 1613543560668,
-    "duration" : 170
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d650ef137790e8c0",
-  "name" : "获取品类列表",
-  "time" : {
-    "start" : 1613543564142,
-    "stop" : 1613543564602,
-    "duration" : 460
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "76dfec78aff5476",
+  "uid" : "b5dda47a460f7913",
   "name" : "实现登录",
   "time" : {
-    "start" : 1613543558340,
-    "stop" : 1613543560051,
-    "duration" : 1711
+    "start" : 1613702470300,
+    "stop" : 1613702470653,
+    "duration" : 353
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f6409a38971b6460",
+  "uid" : "3e89ba03a684686b",
+  "name" : "房间列表",
+  "time" : {
+    "start" : 1613702470815,
+    "stop" : 1613702471117,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4037d9912192fef",
+  "name" : "设备列表",
+  "time" : {
+    "start" : 1613702471121,
+    "stop" : 1613702471240,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efdf6fdd7b790587",
   "name" : "创建项目",
   "time" : {
-    "start" : 1613543560672,
-    "stop" : 1613543564074,
-    "duration" : 3402
+    "start" : 1613702471244,
+    "stop" : 1613702471532,
+    "duration" : 288
   },
   "status" : "failed",
   "severity" : "normal"
 }, {
-  "uid" : "f57108ea7511d01d",
-  "name" : "房间列表",
+  "uid" : "4fb4867fc186562",
+  "name" : "获取品类列表",
   "time" : {
-    "start" : 1613543560217,
-    "stop" : 1613543560493,
-    "duration" : 276
+    "start" : 1613702471612,
+    "stop" : 1613702471742,
+    "duration" : 130
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "62d9884bfd52cfed",
+  "uid" : "8c06ff3458b069a4",
   "name" : "项目列表",
   "time" : {
-    "start" : 1613543560055,
-    "stop" : 1613543560213,
-    "duration" : 158
+    "start" : 1613702470660,
+    "stop" : 1613702470811,
+    "duration" : 151
   },
   "status" : "passed",
   "severity" : "normal"

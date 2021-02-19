@@ -7,13 +7,13 @@
       "name" : "AssertionError: 断言失败 -|- 实际结果:房间名已存在 || 预期结果: success",
       "children" : [ {
         "name" : "创建项目",
-        "uid" : "f6409a38971b6460",
+        "uid" : "efdf6fdd7b790587",
         "parentUid" : "f9764d6892edd84b92c698f5137b4382",
         "status" : "failed",
         "time" : {
-          "start" : 1613543560672,
-          "stop" : 1613543564074,
-          "duration" : 3402
+          "start" : 1613702471244,
+          "stop" : 1613702471532,
+          "duration" : 288
         },
         "flaky" : false,
         "newFailed" : false,
