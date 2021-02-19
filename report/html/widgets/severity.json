@@ -1,0 +1,61 @@
+[ {
+  "uid" : "76dfec78aff5476",
+  "name" : "实现登录",
+  "time" : {
+    "start" : 1613543558340,
+    "stop" : 1613543560051,
+    "duration" : 1711
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6409a38971b6460",
+  "name" : "创建项目",
+  "time" : {
+    "start" : 1613543560672,
+    "stop" : 1613543564074,
+    "duration" : 3402
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d650ef137790e8c0",
+  "name" : "获取品类列表",
+  "time" : {
+    "start" : 1613543564142,
+    "stop" : 1613543564602,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62d9884bfd52cfed",
+  "name" : "项目列表",
+  "time" : {
+    "start" : 1613543560055,
+    "stop" : 1613543560213,
+    "duration" : 158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f57108ea7511d01d",
+  "name" : "房间列表",
+  "time" : {
+    "start" : 1613543560217,
+    "stop" : 1613543560493,
+    "duration" : 276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2a701759dcb39ad",
+  "name" : "设备列表",
+  "time" : {
+    "start" : 1613543560498,
+    "stop" : 1613543560668,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

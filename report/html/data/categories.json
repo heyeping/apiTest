@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 断言失败 -|- 实际结果:房间名已存在 || 预期结果: success",
+      "children" : [ {
+        "name" : "创建项目",
+        "uid" : "f6409a38971b6460",
+        "parentUid" : "f9764d6892edd84b92c698f5137b4382",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613543560672,
+          "stop" : 1613543564074,
+          "duration" : 3402
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['case_005', '创建项目', 'constructbill', '读', 'post', 'json', '', '{\"title\":\"新的项目\",\"trade\":1,\"type\":1}', '', '{\"$.msg\": \"success\"}']" ]
+      } ],
+      "uid" : "f9764d6892edd84b92c698f5137b4382"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

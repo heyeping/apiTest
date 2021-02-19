@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "实现登录",
+    "uid" : "76dfec78aff5476",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613543558340,
+      "stop" : 1613543560051,
+      "duration" : 1711
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_001', '实现登录', 'user/login', '写', 'post', 'json', '', '{\"account\":\"13267925075\",\"password\":\"123456\"}', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "项目列表",
+    "uid" : "62d9884bfd52cfed",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613543560055,
+      "stop" : 1613543560213,
+      "duration" : 158
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_002', '项目列表', 'constructbill', '读', 'get', 'params', '', '{\"pageNo\": 1, \"pageSize\": \"50\"}', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "房间列表",
+    "uid" : "f57108ea7511d01d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613543560217,
+      "stop" : 1613543560493,
+      "duration" : 276
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_003', '房间列表', 'device/transfer/treelist', '读', 'get', 'params', '', '{\"billId\": &$.case_002.data.resultList[0].id&,  \"hotelId\": &$.case_002.data.resultList[0].businessId&}', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "设备列表",
+    "uid" : "b2a701759dcb39ad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613543560498,
+      "stop" : 1613543560668,
+      "duration" : 170
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_004', '设备列表', 'device/list', '读', 'post', 'json', '', '{\"roomId\": &$.case_003.data[0].id&,\"pageNo\":1,\"pageSize\":2147483647}', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "创建项目",
+    "uid" : "f6409a38971b6460",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613543560672,
+      "stop" : 1613543564074,
+      "duration" : 3402
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_005', '创建项目', 'constructbill', '读', 'post', 'json', '', '{\"title\":\"新的项目\",\"trade\":1,\"type\":1}', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "获取品类列表",
+    "uid" : "d650ef137790e8c0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613543564142,
+      "stop" : 1613543564602,
+      "duration" : 460
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_007', '获取品类列表', 'spark/devicetypes', '读', 'get', 'params', '', '', '', '{\"$.msg\": \"success\"}']" ]
+  } ]
+}

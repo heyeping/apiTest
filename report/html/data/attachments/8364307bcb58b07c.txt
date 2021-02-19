@@ -1,0 +1,11 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": {
+        "totalPages": 0,
+        "pageSize": 500,
+        "currentPage": 1,
+        "totalCount": 0,
+        "devices": []
+    }
+}

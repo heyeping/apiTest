@@ -1,0 +1,5 @@
+{
+    "Content-Type": "application/json; charset=UTF-8",
+    "serviceId": "3",
+    "Authorization": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6ImF1dGhfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.7uaQtKYKPQDOoYM2upG2WL7pSmQ5szArF7M-V3UR1P0"
+}

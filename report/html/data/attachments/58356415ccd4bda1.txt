@@ -1,0 +1,1698 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "id": 10000,
+            "name": "网关",
+            "sub": [
+                {
+                    "id": 10001,
+                    "name": "墙面式网关",
+                    "node": [
+                        {
+                            "id": 1,
+                            "oemModel": "a1jESFhBQdp",
+                            "pid": "a1jESFhBQdp",
+                            "productModel": "AZB-GW0-004(A)",
+                            "productName": "米兰86型网关",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/013_milan86xingwangguanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/013_milan86xingwangguanS1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 113,
+                            "oemModel": "cewc",
+                            "pid": "cew",
+                            "productModel": "cew",
+                            "productName": "cew",
+                            "source": 0,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611913949000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611913953000.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 114,
+                            "oemModel": "csa",
+                            "pid": "csa",
+                            "productModel": "csa",
+                            "productName": "csa",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914028000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914032000.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 115,
+                            "oemModel": "dwq",
+                            "pid": "dwq",
+                            "productModel": "dqw",
+                            "productName": "dwq",
+                            "source": 0,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914097000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914101000.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 116,
+                            "oemModel": "fre",
+                            "pid": "fre",
+                            "productModel": "fre",
+                            "productName": "fre",
+                            "source": 0,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914280000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/031_luomatiaoguangkaiguan_1611914284000.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10002,
+                    "name": "桌面式网关",
+                    "node": [
+                        {
+                            "id": 2,
+                            "oemModel": "ZBGW0-01-1-001",
+                            "pid": "ZBGW0-A000001",
+                            "productModel": "AZB-GW0-001(A)",
+                            "productName": "罗马智能网关",
+                            "source": 0,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/001_luomazhinengwangguan.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/001_luomazhinengwangguan.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 56,
+                            "oemModel": "a1AwUW7Tqhp",
+                            "pid": "a1AwUW7Tqhp",
+                            "productModel": "AZB-GW0-005(A)",
+                            "productName": "米兰86型网关C1",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/04_milan_c1/001_milan86xingwangguanC1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/04_milan_c1/001_milan86xingwangguanC1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 59,
+                            "oemModel": "ZBGW1-01-1-002",
+                            "pid": "ZBGW0-A000002",
+                            "productModel": "AC2-GW0-002(A)",
+                            "productName": "艾拉智能网关A2",
+                            "source": 0,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/032_ailazhinengwangguan.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/032_ailazhinengwangguan.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10003,
+                    "name": "吸顶式网关",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10004,
+            "name": "开关插座",
+            "sub": [
+                {
+                    "id": 10005,
+                    "name": "一路智能面板",
+                    "node": [
+                        {
+                            "id": 3,
+                            "oemModel": "ZB-NODE-SW0-001",
+                            "pid": "ZBSW0-A000001",
+                            "productModel": "AZB-SW0-001(A)",
+                            "productName": "罗马一路智能面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/011_luomayiluzhinengmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/011_luomayiluzhinengmianban.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 12,
+                            "oemModel": "a1JkhUu2PZ4",
+                            "pid": "a1JkhUu2PZ4",
+                            "productModel": "AZB-SW0-017(A)",
+                            "productName": "米兰一路智能面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/001_milanyiluzhinengmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/001_milanyiluzhinengmianbanS1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 23,
+                            "oemModel": "a1tGIQYpSZA",
+                            "pid": "a1tGIQYpSZA",
+                            "productModel": "AZB-SW0-013(A)",
+                            "productName": "米兰一路智能面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/001_milanyiluzhinengmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/001_milanyiluzhinengmianbanH1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 97,
+                            "oemModel": "a1W1FbqS4qs",
+                            "pid": "a1W1FbqS4qs",
+                            "productModel": "AZB-SW0-064（A）",
+                            "productName": "米兰一路智能面板(单火)S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/001_milanyiluzhinengmianbanS1-2_1611629882000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/001_milanyiluzhinengmianbanS1_1611629886000.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 10006,
+                    "name": "二路智能面板",
+                    "node": [
+                        {
+                            "id": 4,
+                            "oemModel": "ZB-NODE-SW0-002",
+                            "pid": "ZBSW0-A000002",
+                            "productModel": "AZB-SW0-002(A)",
+                            "productName": "罗马二路智能面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/012_luomaerluzhinengmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/012_luomaerluzhinengmianban.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 13,
+                            "oemModel": "a13EUOBl7HS",
+                            "pid": "a13EUOBl7HS",
+                            "productModel": "AZB-SW0-018(A)",
+                            "productName": "米兰二路智能面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/002_milanerluzhinengmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/002_milanerluzhinengmianbanS1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 24,
+                            "oemModel": "a1BiQBY7OyX",
+                            "pid": "a1BiQBY7OyX",
+                            "productModel": "AZB-SW0-014(A)",
+                            "productName": "米兰二路智能面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/002_milanerluzhinengmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/002_milanerluzhinengmianbanH1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 98,
+                            "oemModel": "a1Ggll5kIq1",
+                            "pid": "a1Ggll5kIq1",
+                            "productModel": "AZB-SW0-065（A）",
+                            "productName": "米兰二路智能面板(单火)S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/002_milanerluzhinengmianbanS1-2_1611630013000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/002_milanerluzhinengmianbanS1_1611630018000.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 10012,
+                    "name": "三路智能面板",
+                    "node": [
+                        {
+                            "id": 5,
+                            "oemModel": "ZB-NODE-SW0-003",
+                            "pid": "ZBSW0-A000003",
+                            "productModel": "AZB-SW0-003(A)",
+                            "productName": "罗马三路智能面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/013_luomasanluzhinengmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/013_luomasanluzhinengmianban.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 14,
+                            "oemModel": "a1wGa9L4BKe",
+                            "pid": "a1wGa9L4BKe",
+                            "productModel": "AZB-SW0-019(A)",
+                            "productName": "米兰三路智能面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/003_milansanluzhinengmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/003_milansanluzhinengmianbanS1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 25,
+                            "oemModel": "a1tjvoYP1YR",
+                            "pid": "a1tjvoYP1YR",
+                            "productModel": "AZB-SW0-015(A)",
+                            "productName": "米兰三路智能面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/003_milansanluzhinengmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/003_milansanluzhinengmianbanH1.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 99,
+                            "oemModel": "a1PsLa4BarQ",
+                            "pid": "a1PsLa4BarQ",
+                            "productModel": "AZB-SW0-066（A）",
+                            "productName": "米兰三路智能面板(单火)S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/003_milansanluzhinengmianbanS1-2_1611630136000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/003_milansanluzhinengmianbanS1_1611630140000.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 10013,
+                    "name": "四路智能面板",
+                    "node": [
+                        {
+                            "id": 6,
+                            "oemModel": "ZB-NODE-SW0-004",
+                            "pid": "ZBSW0-A000004",
+                            "productModel": "AZB-SW0-004(A)",
+                            "productName": "罗马四路智能面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/014_luomasiluzhinengmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/014_luomasiluzhinengmianban.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 10014,
+                    "name": "智能插座（带USB）",
+                    "node": [
+                        {
+                            "id": 22,
+                            "oemModel": "a1vM4CfSJw2",
+                            "pid": "a1vM4CfSJw2",
+                            "productModel": "AZB-PLG-007(A)",
+                            "productName": "米兰10A智能插座(USB)",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/006_milan10Azhinengchazuo(USB)S1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/006_milan10Azhinengchazuo(USB)S1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10015,
+                    "name": "智能插座",
+                    "node": [
+                        {
+                            "id": 8,
+                            "oemModel": "ZB-NODE-SN0-001",
+                            "pid": "ZBPLG-A000001",
+                            "productModel": "AZB-PLG-001(A)",
+                            "productName": "罗马智能插座",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/015_luomazhinengchazuo.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/015_luomazhinengchazuo.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 17,
+                            "oemModel": "a1wgyOrpYSz",
+                            "pid": "a1wgyOrpYSz",
+                            "productModel": "AZB-PLG-008(A)",
+                            "productName": "米兰16A智能插座",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/007_milan16Azhinengchazuo(USB)S1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/007_milan16Azhinengchazuo(USB)S1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 30,
+                            "oemModel": "a1Alb994W6H",
+                            "pid": "a1Alb994W6H",
+                            "productModel": "AZB-PLG-004(A)",
+                            "productName": "米兰10A智能插座H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/008_milan10AzhinengchazuoH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/008_milan10AzhinengchazuoH1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 58,
+                            "oemModel": "SN0-01-0-001",
+                            "pid": "WFPLG-A000001",
+                            "productModel": "AWF-PLG-008(A)",
+                            "productName": "罗马智能插座（wifi）",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/022_luomazhinengchazuo(wifi).png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/022_luomazhinengchazuo(wifi).png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10016,
+                    "name": "调光开关",
+                    "node": [
+                        {
+                            "id": 18,
+                            "oemModel": "a1t7UdfX4Lj",
+                            "pid": "a1t7UdfX4Lj",
+                            "productModel": "AZB-SW0-020(A)",
+                            "productName": "米兰DLT调光开关(零火)S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/008_milanDLTtiaoguangkaiguan(linghuo)S1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/008_milanDLTtiaoguangkaiguan(linghuo)S1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 26,
+                            "oemModel": "a1PKYYAwgxD",
+                            "pid": "a1PKYYAwgxD",
+                            "productModel": "AZB-SW0-016(A)",
+                            "productName": "米兰DLT调光开关(单火)H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/004_milanDLTtiaoguangkaiguan(danhuo)H1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/004_milanDLTtiaoguangkaiguan(danhuo)H1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 66,
+                            "oemModel": "ZB-NODE-SWD0-001",
+                            "pid": "ZBSW0-A000005",
+                            "productModel": "AZB-SW0-045(A)",
+                            "productName": "罗马调光开关",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/031_luomatiaoguangkaiguan.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/031_luomatiaoguangkaiguan.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10017,
+            "name": "照明",
+            "sub": [
+                {
+                    "id": 10018,
+                    "name": "灯泡",
+                    "node": [
+                        {
+                            "id": 60,
+                            "oemModel": "LL5-01-0-001",
+                            "pid": "WFRGB-A000001",
+                            "productModel": "AWF-RGB-006(A)",
+                            "productName": "罗马RGB球泡灯",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/018_luomaRGBqiupaodeng.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/018_luomaRGBqiupaodeng.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 64,
+                            "oemModel": "LL5-01-0-001",
+                            "pid": "WFRGB-A000002",
+                            "productModel": "AWF-RGB-007(A)",
+                            "productName": "罗马RGB蜡烛灯",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/019_luomaRGBlazhudeng.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/019_luomaRGBlazhudeng.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 65,
+                            "oemModel": "LL5-01-0-001",
+                            "pid": "WFLED-A000001",
+                            "productModel": "AWF-LED-002(A)",
+                            "productName": "罗马筒灯",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/020_luomatongdeng.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/020_luomatongdeng.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10019,
+                    "name": "筒灯",
+                    "node": []
+                },
+                {
+                    "id": 10020,
+                    "name": "台灯",
+                    "node": []
+                },
+                {
+                    "id": 10021,
+                    "name": "吸顶灯",
+                    "node": []
+                },
+                {
+                    "id": 10022,
+                    "name": "床头灯",
+                    "node": []
+                },
+                {
+                    "id": 10023,
+                    "name": "夜灯",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10026,
+            "name": "安防监控",
+            "sub": [
+                {
+                    "id": 10027,
+                    "name": "家用摄像头",
+                    "node": []
+                },
+                {
+                    "id": 10029,
+                    "name": "室外摄像头",
+                    "node": []
+                },
+                {
+                    "id": 10030,
+                    "name": "猫眼",
+                    "node": [
+                        {
+                            "id": 92,
+                            "oemModel": "a1NyKNY4hFq",
+                            "pid": "a1NyKNY4hFq",
+                            "productModel": "AWF-IPC-006（A)",
+                            "productName": "智能摄像机云台版A1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "4",
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/%E5%88%9B%E7%B1%B3%E6%91%84%E5%83%8F%E6%9C%BA-%E6%8B%9F%E7%89%A9icon_1612321527000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/%E5%88%9B%E7%B1%B3%E6%91%84%E5%83%8F%E6%9C%BA-%E7%BA%BF%E5%9E%8Bicon_1612321531000.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10031,
+                    "name": "可视门铃",
+                    "node": []
+                },
+                {
+                    "id": 10032,
+                    "name": "智能门锁",
+                    "node": [
+                        {
+                            "id": 44,
+                            "oemModel": "ZB-NODE-LN1-001",
+                            "pid": "ZBLCK-A000001",
+                            "productModel": "AZB-LCK-001(A)",
+                            "productName": "罗马智能门锁X5",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/017_luomazhinengmensuoX5.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/017_luomazhinengmensuoX5.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10033,
+            "name": "生活电器",
+            "sub": [
+                {
+                    "id": 10034,
+                    "name": "一路窗帘面板",
+                    "node": [
+                        {
+                            "id": 16,
+                            "oemModel": "a1xkhpByrWS",
+                            "pid": "a1xkhpByrWS",
+                            "productModel": "AZB-SCN-010(A)",
+                            "productName": "米兰一路窗帘面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/005_milanyiluchuanglianmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/005_milanyiluchuanglianmianbanS1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 31,
+                            "oemModel": "a1m1smBfQGb",
+                            "pid": "a1m1smBfQGb",
+                            "productModel": "AZB-SCN-006(A)",
+                            "productName": "米兰一路窗帘面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/009_milanyiluchuanglianmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/009_milanyiluchuanglianmianbanH1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10035,
+                    "name": "二路窗帘面板",
+                    "node": [
+                        {
+                            "id": 32,
+                            "oemModel": "a1Xv8ZSbvZf",
+                            "pid": "a1Xv8ZSbvZf",
+                            "productModel": "AZB-SCN-007(A)",
+                            "productName": "米兰二路窗帘面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/010_milanerluchuanglianmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/010_milanerluchuanglianmianbanH1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10036,
+                    "name": "开合窗帘电机",
+                    "node": [
+                        {
+                            "id": 7,
+                            "oemModel": "ZB-NODE-LC1-008",
+                            "pid": "ZBCM0-A000001",
+                            "productModel": "AZB-CM0-001(A)",
+                            "productName": "罗马窗帘电机",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/016_luomachuangliandianji.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/016_luomachuangliandianji.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 45,
+                            "oemModel": "a1NR35vGlsb",
+                            "pid": "a1NR35vGlsb",
+                            "productModel": "AZB-CM0-003(A)",
+                            "productName": "米兰开合窗帘电机C1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/04_milan_c1/004_milankaihechuangliandianjiC1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/04_milan_c1/004_milankaihechuangliandianjiC1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10037,
+                    "name": "卷帘窗帘电机",
+                    "node": []
+                },
+                {
+                    "id": 10038,
+                    "name": "扫地机器人",
+                    "node": []
+                },
+                {
+                    "id": 10039,
+                    "name": "智能晾衣架",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10040,
+            "name": "环境电器",
+            "sub": [
+                {
+                    "id": 10041,
+                    "name": "水空调面板",
+                    "node": [
+                        {
+                            "id": 10,
+                            "oemModel": "ZB-NODE-TS0-001",
+                            "pid": "ZBACP-A000001",
+                            "productModel": "AZB-ACP-005(A)",
+                            "productName": "罗马水空调面板（四管制）",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/023_luomashuikongtiaomianban(siguanzhi).png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/023_luomashuikongtiaomianban(siguanzhi).png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 42,
+                            "oemModel": "ZB-NODE-TS0-002",
+                            "pid": "ZBACP-A000002",
+                            "productModel": "AZB-ACP-006(A)",
+                            "productName": "罗马水空调面板（二管制）",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/024luomashuikongtiaomianban(erguanzhi).png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/024_luomashuikongtiaomianban(erguanzhi).png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10042,
+                    "name": "场景面板",
+                    "node": [
+                        {
+                            "id": 9,
+                            "oemModel": "ZB-NODE-SE0-006",
+                            "pid": "ZBSCN-A000002",
+                            "productModel": "AZB-SCN-018(A)",
+                            "productName": "罗马六路场景面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/026_luomaliuluchangjingmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/026_luomaliuluchangjingmianban.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 27,
+                            "oemModel": "a1dnviXyhqx",
+                            "pid": "a1dnviXyhqx",
+                            "productModel": "AZB-SCN-005(A)",
+                            "productName": "米兰6键场景面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/005_milan6jianchangjingmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/005_milan6jianchangjingmianbanH1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 57,
+                            "oemModel": "ZB-NODE-SE0-004",
+                            "pid": "ZBSCN-A000003",
+                            "productModel": "AZB-SCN-021(A)",
+                            "productName": "罗马四路场景面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/027_luomasiluchangjingmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/027_luomasiluchangjingmianban.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10043,
+                    "name": "新风面板",
+                    "node": [
+                        {
+                            "id": 36,
+                            "oemModel": "a1uROovwRDH",
+                            "pid": "a1uROovwRDH",
+                            "productModel": "AZB-OAC-001(A)",
+                            "productName": "米兰新风面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/015_milanxinfengmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/015_milanxinfengmianbanH1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 61,
+                            "oemModel": "ZB-NODE-TS1-001",
+                            "pid": "ZBOAC-A000001",
+                            "productModel": "AZB-OAC-003(A)",
+                            "productName": "罗马新风面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/028_luomaxinfengmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/028_luomaxinfengmianban.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10044,
+                    "name": "水地暖面板",
+                    "node": [
+                        {
+                            "id": 39,
+                            "oemModel": "a1uhlSetHzf",
+                            "pid": "a1uhlSetHzf",
+                            "productModel": "AZB-FHT-001(A)",
+                            "productName": "米兰水地暖面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/017_milanshuidinuanmianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/017_milanshuidinuanmianbanH1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 62,
+                            "oemModel": "ZB-NODE-TS2-001",
+                            "pid": "ZBFHT-A000001",
+                            "productModel": "AZB-FHT-005(A)",
+                            "productName": "罗马水地暖面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/029_luomashuidinuanmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/029_luomashuidinuanmianban.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10046,
+                    "name": "智能电风扇",
+                    "node": []
+                },
+                {
+                    "id": 10047,
+                    "name": "空气净化器",
+                    "node": []
+                },
+                {
+                    "id": 10048,
+                    "name": "净水器",
+                    "node": []
+                },
+                {
+                    "id": 10049,
+                    "name": "加湿器",
+                    "node": []
+                },
+                {
+                    "id": 10050,
+                    "name": "复合面板",
+                    "node": [
+                        {
+                            "id": 15,
+                            "oemModel": "a1UR1BjfznK",
+                            "pid": "a1UR1BjfznK",
+                            "productModel": "AZB-SCN-009(A)",
+                            "productName": "米兰触控面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/004_milanchukongmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/004_milanchukongmianbanS1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10051,
+                    "name": "智能电表",
+                    "node": []
+                },
+                {
+                    "id": 10052,
+                    "name": "智能水表",
+                    "node": []
+                },
+                {
+                    "id": 10087,
+                    "name": "电地暖面板",
+                    "node": [
+                        {
+                            "id": 38,
+                            "oemModel": "a1wxsQpdsKG",
+                            "pid": "a1wxsQpdsKG",
+                            "productModel": "AZB-FHT-002(A)",
+                            "productName": "米兰电地暖面板H1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/018_milandiandinuanmianbanH11.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/018_milandiandinuanmianbanH11.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 63,
+                            "oemModel": "ZB-NODE-TS2-002",
+                            "pid": "ZBFHT-A000002",
+                            "productModel": "AZB-FHT-006(A)",
+                            "productName": "罗马电地暖面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/030_luomadiandinuanmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/030_luomadiandinuanmianban.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10088,
+                    "name": "氟空调面板",
+                    "node": [
+                        {
+                            "id": 33,
+                            "oemModel": "a1egPxZxTHq",
+                            "pid": "a1egPxZxTHq",
+                            "productModel": "AZB-ACP-002(A)",
+                            "productName": "米兰氟/水空调面板",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/03_milan_h1/012_milanfukongtiaomianbanH1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/03_milan_h1/012_milanfukongtiaomianbanH1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 94,
+                            "oemModel": "ZB-NODE-TS4-001",
+                            "pid": "ZBACP-A000003",
+                            "productModel": "AZB-ACP-002（B）",
+                            "productName": "米兰氟/水空调面板",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/012_milanfukongtiaomianbanH1_1611298330000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/012_milanfukongtiaomianbanH1%20%E7%BA%BF%E6%80%A7_1611298334000.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10053,
+            "name": "传感器",
+            "sub": [
+                {
+                    "id": 10054,
+                    "name": "环境检测面板",
+                    "node": [
+                        {
+                            "id": 40,
+                            "oemModel": "a12brV3Xjdv",
+                            "pid": "a12brV3Xjdv",
+                            "productModel": "AZB-PM0-003(A)",
+                            "productName": "米兰环境检测面板",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/009_milanhuanjingjiancemianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/009_milanhuanjingjiancemianbanS1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10055,
+                    "name": "门磁传感器",
+                    "node": [
+                        {
+                            "id": 46,
+                            "oemModel": "a15lRpUrPPu",
+                            "pid": "a15lRpUrPPu",
+                            "productModel": "AZB-DS0-003(A)",
+                            "productName": "米兰门磁传感器C1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/04_milan_c1/003_milanmencichuanganqiC1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/04_milan_c1/003_milanmencichuanganqiC1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 48,
+                            "oemModel": "ZB-NODE-MS0-002",
+                            "pid": "ZBDS0-A000001",
+                            "productModel": "AZB-DS0-001(A)",
+                            "productName": "罗马门磁传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/002_luomamencichuanganqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/002_luomamencichuanganqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10056,
+                    "name": "水浸传感器",
+                    "node": [
+                        {
+                            "id": 47,
+                            "oemModel": "a1cQT9XjrGt",
+                            "pid": "a1cQT9XjrGt",
+                            "productModel": "AZB-WLD-003(A)",
+                            "productName": "米兰水浸传感器C1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/04_milan_c1/002_milanshuijinchuanganqiC1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/04_milan_c1/001_milan86xingwangguanC1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 49,
+                            "oemModel": "ZB-NODE-WD0-002",
+                            "pid": "ZBWLD-A000001",
+                            "productModel": "AZB-WLD-001(A)",
+                            "productName": "罗马水浸传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/005_luomashuijinchuanganqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/005_luomashuijinchuanganqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10057,
+                    "name": "一氧化碳传感器",
+                    "node": []
+                },
+                {
+                    "id": 10058,
+                    "name": "温湿度传感器",
+                    "node": [
+                        {
+                            "id": 52,
+                            "oemModel": "ZB-NODE-TH0-002",
+                            "pid": "ZBTH0-A000001",
+                            "productModel": "AZB-TH0-001(A)",
+                            "productName": "罗马温湿度传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/006_luomawenshiduchuanganqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/006_luomawenshiduchuanganqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10059,
+                    "name": "烟雾传感器",
+                    "node": [
+                        {
+                            "id": 54,
+                            "oemModel": "ZB-NODE-SMD0-001",
+                            "pid": "ZBSMK-A0000001",
+                            "productModel": "AZB-SMK-001(A)",
+                            "productName": "罗马烟雾传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/008_luomayanwuchuanganqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/008_luomayanwuchuanganqi.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 90,
+                            "oemModel": "a1WpOwFLTD3",
+                            "pid": "a1WpOwFLTD3",
+                            "productModel": "AZB-SMK-001(B)",
+                            "productName": "烟雾传感器",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/04_milan_c1/005_milanyanwuchuanganqiC1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/04_milan_c1/005_milanyanwuchuanganqiC1.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10060,
+                    "name": "可燃气体检测",
+                    "node": [
+                        {
+                            "id": 19,
+                            "oemModel": "a13nRyiJHsK",
+                            "pid": "a13nRyiJHsK",
+                            "productModel": "AZB-GSD-003(A)",
+                            "productName": "米兰燃气检测面板S1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/010_milanranqijiancemianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/010_milanranqijiancemianbanS1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 53,
+                            "oemModel": "ZB-NODE-GSD0-001",
+                            "pid": "ZBGSD-A000001",
+                            "productModel": "AZB-GSD-001(A)",
+                            "productName": "罗马可燃气体传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/007_luomakeranqitichuanganqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/007_luomakeranqitichuanganqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10061,
+                    "name": "红外人体传感",
+                    "node": [
+                        {
+                            "id": 21,
+                            "oemModel": "a1R5FMab8Kg",
+                            "pid": "a1R5FMab8Kg",
+                            "productModel": "AZB-PIR-003(A)",
+                            "productName": "米兰红外人体传感面板",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/012_milanhongwairentichuanganmianbanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/012_milanhongwairentichuanganmianbanS1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 50,
+                            "oemModel": "ZB-NODE-PIR0-002",
+                            "pid": "ZBPIR-A000001",
+                            "productModel": "AZB-PIR-001(A)",
+                            "productName": "罗马红外人体传感器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/003_rentichuanganmianban.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/003_rentichuanganmianban.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10062,
+                    "name": "单向红外幕帘",
+                    "node": []
+                },
+                {
+                    "id": 10063,
+                    "name": "双向红外幕帘",
+                    "node": []
+                },
+                {
+                    "id": 10064,
+                    "name": "空气质量",
+                    "node": []
+                },
+                {
+                    "id": 10065,
+                    "name": "声光报警器",
+                    "node": [
+                        {
+                            "id": 55,
+                            "oemModel": "ZB-NODE-SR0-001",
+                            "pid": "ZBSR0-A000001",
+                            "productModel": "AZB-SR0-001(A)",
+                            "productName": "罗马声光报警器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/009_luomashengguangbaojingqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/009_luomashengguangbaojingqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10066,
+                    "name": "紧急按钮",
+                    "node": [
+                        {
+                            "id": 20,
+                            "oemModel": "a1009Fd5ZCJ",
+                            "pid": "a1009Fd5ZCJ",
+                            "productModel": "AZB-SCN-011(A)",
+                            "productName": "米兰紧急按钮开关",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/02_milan_s1/011_milanjinjianniukaiguanS1.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/02_milan_s1/011_milanjinjianniukaiguanS1.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 51,
+                            "oemModel": "ZB-NODE-UGB0-002",
+                            "pid": "ZBSCN-A000001",
+                            "productModel": "AZB-SCN-001(A)",
+                            "productName": "罗马紧急按钮开关",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/004_luomajinjianniukaiguan.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/004_luomajinjianniukaiguan.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10067,
+            "name": "娱乐影音",
+            "sub": [
+                {
+                    "id": 10068,
+                    "name": "电视机",
+                    "node": []
+                },
+                {
+                    "id": 10069,
+                    "name": "投影仪",
+                    "node": []
+                },
+                {
+                    "id": 10070,
+                    "name": "背景音乐",
+                    "node": []
+                },
+                {
+                    "id": 10071,
+                    "name": "智能音箱",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10072,
+            "name": "运动健康",
+            "sub": [
+                {
+                    "id": 10073,
+                    "name": "智能手环",
+                    "node": []
+                },
+                {
+                    "id": 10074,
+                    "name": "智能手表",
+                    "node": []
+                },
+                {
+                    "id": 10075,
+                    "name": "体脂秤",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10076,
+            "name": "厨卫电器",
+            "sub": [
+                {
+                    "id": 10077,
+                    "name": "智能电饭煲",
+                    "node": []
+                },
+                {
+                    "id": 10078,
+                    "name": "智能马桶",
+                    "node": []
+                }
+            ]
+        },
+        {
+            "id": 10079,
+            "name": "其它",
+            "sub": [
+                {
+                    "id": 10080,
+                    "name": "插卡取电机",
+                    "node": [
+                        {
+                            "id": 11,
+                            "oemModel": "ZB-NODE-CK0-001",
+                            "pid": "ZBPIP-A000001",
+                            "productModel": "AZB-PIP-003(A)",
+                            "productName": "罗马插卡取电机",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": "",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/025_luomachakaqudianji.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/025_luomachakaqudianji.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                },
+                {
+                    "id": 10081,
+                    "name": "空调转换器",
+                    "node": []
+                },
+                {
+                    "id": 10082,
+                    "name": "空调伴侣",
+                    "node": []
+                },
+                {
+                    "id": 10083,
+                    "name": "机顶盒",
+                    "node": []
+                },
+                {
+                    "id": 10084,
+                    "name": "红外转发器",
+                    "node": [
+                        {
+                            "id": 43,
+                            "oemModel": "IR0-01-0-001",
+                            "pid": "WFIR0-A000001",
+                            "productModel": "AWF-IR0-001(A)",
+                            "productName": "罗马红外转发器",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1",
+                            "actualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant%20icon/01_luoma/021_luomahongwaizhuanfaqi.png",
+                            "virtualIcon": "http://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Real%20icon/01_luoma/021_luomahongwaizhuanfaqi.png",
+                            "isPurposeDevice": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10089,
+            "name": "1609322191684",
+            "sub": []
+        },
+        {
+            "id": 10090,
+            "name": "1609322718857",
+            "sub": []
+        },
+        {
+            "id": 10092,
+            "name": "1609408246722修改",
+            "sub": []
+        },
+        {
+            "id": 10093,
+            "name": "Test",
+            "sub": [
+                {
+                    "id": 10094,
+                    "name": "test1-1-1-1-1-1-1-1-1-1",
+                    "node": []
+                },
+                {
+                    "id": 10096,
+                    "name": "test1-2",
+                    "node": [
+                        {
+                            "id": 109,
+                            "oemModel": "20210127-ali",
+                            "pid": "20210127-ali",
+                            "productModel": "20210127-ali-型号",
+                            "productName": "20210127-ali-名称",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1,2,3,4",
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1611735821000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611735823000.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 112,
+                            "oemModel": "ala-test-oem-id",
+                            "pid": "ala-test-oem-pid",
+                            "productModel": "ala-test-num-id",
+                            "productName": "ala-test-name",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "2",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1611813512000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611813515000.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 95,
+                            "oemModel": "20210125",
+                            "pid": "20210125",
+                            "productModel": "test-ali",
+                            "productName": "test-ali-name",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "[[1,  2,  3,  4]]",
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611562311000.png",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611562314000.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 117,
+                            "oemModel": "20210129-oem-id",
+                            "pid": "20210129-oem-pid",
+                            "productModel": "20210129-num",
+                            "productName": "20210129-艾拉-测试1",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "2",
+                            "wifiNetworkMode": "1,2,3,4",
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1611915025000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611915028000.png",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 118,
+                            "oemModel": "202101029-ali",
+                            "pid": "202101029-ali",
+                            "productModel": "202101029-ali-module-id",
+                            "productName": "202101029-ali-名字",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1611915683000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611915686000.png",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 120,
+                            "oemModel": "20210201_ali_pk161",
+                            "pid": "20210201_ali_pk161",
+                            "productModel": "20210201_ali_model_num",
+                            "productName": "20210201_ali产品名字",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1,2,3,4,5",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612160417000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612160420000.jpeg",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 121,
+                            "oemModel": "bug_check_ali",
+                            "pid": "bug_check_ali",
+                            "productModel": "bug_check_ali_module",
+                            "productName": "bug_check_ali_产品名称",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1,2,3,4,5",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612169268000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612169271000.jpeg",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 122,
+                            "oemModel": "20210203-ali-pid",
+                            "pid": "20210203-ali-pid",
+                            "productModel": "20210203-ali-产品型号1",
+                            "productName": "20210203-ali-产品名称1",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612323220000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612323222000.jpeg",
+                            "isPurposeDevice": 1
+                        },
+                        {
+                            "id": 123,
+                            "oemModel": "20210203-ala-ome",
+                            "pid": "20210203-ala-PID",
+                            "productModel": "20210203-ala(:123)1",
+                            "productName": "20210203-产品名称1",
+                            "source": 0,
+                            "productType": 2,
+                            "isNeedGateway": 1,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612324153000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612324156000.jpeg",
+                            "isPurposeDevice": 0
+                        },
+                        {
+                            "id": 124,
+                            "oemModel": "over_ali",
+                            "pid": "over_ali",
+                            "productModel": "over_ali",
+                            "productName": "over_ali_我不行了10",
+                            "source": 1,
+                            "productType": 2,
+                            "isNeedGateway": 0,
+                            "connectType": "1",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1612337689000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1612337692000.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 10098,
+                    "name": "test1-3",
+                    "node": [
+                        {
+                            "id": 111,
+                            "oemModel": "test_test_3_pid",
+                            "pid": "test_test_3_pid",
+                            "productModel": "test_test_3_xkhc",
+                            "productName": "test_test_3_名字",
+                            "source": 1,
+                            "productType": 1,
+                            "isNeedGateway": 0,
+                            "connectType": "1,2,3,4,5",
+                            "wifiNetworkMode": null,
+                            "actualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/jpg_1611742999000.jpeg",
+                            "virtualIcon": "https://aylasmht-test.oss-cn-shanghai.aliyuncs.com/ccpgspark/Simulant_icon/png_1611743002000.png",
+                            "isPurposeDevice": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10103,
+            "name": "一级品类清晖测试使用哈哈",
+            "sub": []
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+[32m2021-02-17 14:32:40.045[0m | [1mINFO    [0m | [36mapi.base_requests[0m:[36msend_api[0m:[36m80[0m - [1m
+最终请求地址:https://abp-test.ayla.com.cn/api/v1/build/user/login
+请求方法:post
+请求头:{'Content-Type': 'application/json; charset=UTF-8', 'serviceId': '3'}
+请求参数:{'account': '13267925075', 'password': '123456'}
+上传文件:None
+响应数据:{'code': 0, 'msg': 'success', 'data': {'authToken': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6ImF1dGhfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.7uaQtKYKPQDOoYM2upG2WL7pSmQ5szArF7M-V3UR1P0', 'refreshToken': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6InJlZnJlc2hfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.dOWNtaVTpgIaF56HWDk6BffkiWRba_FvgsVQEEAbGxQ', 'expireTime': 86400}}[0m
+[32m2021-02-17 14:32:40.049[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36msave_response[0m:[36m27[0m - [1m添加key: case_001, 对应value: {'code': 0, 'msg': 'success', 'data': {'authToken': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6ImF1dGhfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.7uaQtKYKPQDOoYM2upG2WL7pSmQ5szArF7M-V3UR1P0', 'refreshToken': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6InJlZnJlc2hfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.dOWNtaVTpgIaF56HWDk6BffkiWRba_FvgsVQEEAbGxQ', 'expireTime': 86400}}[0m
+[32m2021-02-17 14:32:40.050[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36massert_result[0m:[36m115[0m - [1m第1个断言,实际结果:success | 预期结果:success 
+断言结果 True[0m

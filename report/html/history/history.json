@@ -1,0 +1,117 @@
+{
+  "9b58e419aa66c81ba5e26368887473ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d650ef137790e8c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613543564142,
+        "stop" : 1613543564602,
+        "duration" : 460
+      }
+    } ]
+  },
+  "f9a3a528aa08d345b131e068670a2332" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2a701759dcb39ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613543560498,
+        "stop" : 1613543560668,
+        "duration" : 170
+      }
+    } ]
+  },
+  "3a098e261ee7b9115a8be890393002aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f57108ea7511d01d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613543560217,
+        "stop" : 1613543560493,
+        "duration" : 276
+      }
+    } ]
+  },
+  "d5345d39adc3d02ffcaf8f15af49ab18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62d9884bfd52cfed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613543560055,
+        "stop" : 1613543560213,
+        "duration" : 158
+      }
+    } ]
+  },
+  "8174f8ecb1004db16679a852ff5f760a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76dfec78aff5476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613543558340,
+        "stop" : 1613543560051,
+        "duration" : 1711
+      }
+    } ]
+  },
+  "0739167ffd7bddb403117cdf6fcb588f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6409a38971b6460",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败 -|- 实际结果:房间名已存在 || 预期结果: success",
+      "time" : {
+        "start" : 1613543560672,
+        "stop" : 1613543564074,
+        "duration" : 3402
+      }
+    } ]
+  }
+}

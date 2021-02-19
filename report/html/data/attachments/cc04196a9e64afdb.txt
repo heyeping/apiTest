@@ -1,0 +1,10 @@
+[32m2021-02-17 14:32:44.068[0m | [1mINFO    [0m | [36mapi.base_requests[0m:[36msend_api[0m:[36m80[0m - [1m
+最终请求地址:https://abp-test.ayla.com.cn/api/v1/build/constructbill
+请求方法:post
+请求头:{'Content-Type': 'application/json; charset=UTF-8', 'serviceId': '3', 'Authorization': 'eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMjk4NTAwMDU0NDAyODA1NzgxIiwidXNlck5hbWUiOiIxMzIiLCJsb2dpblR5cGUiOiIxIiwibG9naW5Tb3VyY2UiOiIxIiwiYXlsYUFwcGxpY2F0aW9uSWQiOiIzIiwidHlwZSI6ImF1dGhfdG9rZW4iLCJpYXQiOjE2MTM1NDM1NjB9.7uaQtKYKPQDOoYM2upG2WL7pSmQ5szArF7M-V3UR1P0'}
+请求参数:{'title': '新的项目', 'trade': 1, 'type': 1}
+上传文件:None
+响应数据:{'code': 170000, 'msg': '房间名已存在', 'data': None}[0m
+[32m2021-02-17 14:32:44.070[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36msave_response[0m:[36m27[0m - [1m添加key: case_005, 对应value: {'code': 170000, 'msg': '房间名已存在', 'data': None}[0m
+[32m2021-02-17 14:32:44.073[0m | [1mINFO    [0m | [36mtools.data_process[0m:[36massert_result[0m:[36m115[0m - [1m第1个断言,实际结果:房间名已存在 | 预期结果:success 
+断言结果 False[0m

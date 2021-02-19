@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 17 14:32:40 CST 2021","Wed Feb 17 14:32:40 CST 2021","170","test","test_api","","","","设备列表",""
+"passed","Wed Feb 17 14:32:44 CST 2021","Wed Feb 17 14:32:44 CST 2021","460","test","test_api","","","","获取品类列表",""
+"passed","Wed Feb 17 14:32:38 CST 2021","Wed Feb 17 14:32:40 CST 2021","1711","test","test_api","","","","实现登录",""
+"failed","Wed Feb 17 14:32:40 CST 2021","Wed Feb 17 14:32:44 CST 2021","3402","test","test_api","","","","创建项目",""
+"passed","Wed Feb 17 14:32:40 CST 2021","Wed Feb 17 14:32:40 CST 2021","276","test","test_api","","","","房间列表",""
+"passed","Wed Feb 17 14:32:40 CST 2021","Wed Feb 17 14:32:40 CST 2021","158","test","test_api","","","","项目列表",""
