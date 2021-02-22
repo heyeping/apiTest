@@ -7,82 +7,82 @@
       "name" : "test_api",
       "children" : [ {
         "name" : "实现登录",
-        "uid" : "b5dda47a460f7913",
+        "uid" : "d8eb41c1a1c9658a",
         "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
         "status" : "passed",
         "time" : {
-          "start" : 1613702470300,
-          "stop" : 1613702470653,
-          "duration" : 353
+          "start" : 1613718403886,
+          "stop" : 1613718404250,
+          "duration" : 364
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ "['case_001', '实现登录', 'user/login', '写', 'post', 'json', '', '{\"account\":\"13267925075\",\"password\":\"123456\"}', '', '{\"$.msg\": \"success\"}']" ]
+        "parameters" : [ "['case_001', '实现登录', 'user/login', '写', 'post', 'json', '', '{\"account\":\"18002549655\",\"password\":\"Hyp123456\"}', '', '{\"$.msg\": \"success\"}']" ]
       }, {
         "name" : "项目列表",
-        "uid" : "8c06ff3458b069a4",
+        "uid" : "da6d3c8a0f37af89",
         "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
         "status" : "passed",
         "time" : {
-          "start" : 1613702470660,
-          "stop" : 1613702470811,
-          "duration" : 151
+          "start" : 1613718404254,
+          "stop" : 1613718404372,
+          "duration" : 118
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['case_002', '项目列表', 'constructbill', '读', 'get', 'params', '', '{\"pageNo\": 1, \"pageSize\": \"50\"}', '', '{\"$.msg\": \"success\"}']" ]
       }, {
         "name" : "房间列表",
-        "uid" : "3e89ba03a684686b",
+        "uid" : "ddea543f6296a42e",
         "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
         "status" : "passed",
         "time" : {
-          "start" : 1613702470815,
-          "stop" : 1613702471117,
-          "duration" : 302
+          "start" : 1613718404376,
+          "stop" : 1613718404504,
+          "duration" : 128
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['case_003', '房间列表', 'device/transfer/treelist', '读', 'get', 'params', '', '{\"billId\": &$.case_002.data.resultList[0].id&,  \"hotelId\": &$.case_002.data.resultList[0].businessId&}', '', '{\"$.msg\": \"success\"}']" ]
       }, {
         "name" : "设备列表",
-        "uid" : "f4037d9912192fef",
+        "uid" : "84dec0e17b594bfd",
         "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
         "status" : "passed",
         "time" : {
-          "start" : 1613702471121,
-          "stop" : 1613702471240,
-          "duration" : 119
+          "start" : 1613718404508,
+          "stop" : 1613718404949,
+          "duration" : 441
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['case_004', '设备列表', 'device/list', '读', 'post', 'json', '', '{\"roomId\": &$.case_003.data[0].id&,\"pageNo\":1,\"pageSize\":2147483647}', '', '{\"$.msg\": \"success\"}']" ]
       }, {
-        "name" : "创建项目",
-        "uid" : "efdf6fdd7b790587",
-        "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
-        "status" : "failed",
-        "time" : {
-          "start" : 1613702471244,
-          "stop" : 1613702471532,
-          "duration" : 288
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "['case_005', '创建项目', 'constructbill', '读', 'post', 'json', '', '{\"title\":\"新的项目\",\"trade\":1,\"type\":1}', '', '{\"$.msg\": \"success\"}']" ]
-      }, {
         "name" : "获取品类列表",
-        "uid" : "4fb4867fc186562",
+        "uid" : "dcd31fe85efe9552",
         "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
         "status" : "passed",
         "time" : {
-          "start" : 1613702471612,
-          "stop" : 1613702471742,
-          "duration" : 130
+          "start" : 1613718404953,
+          "stop" : 1613718405147,
+          "duration" : 194
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "['case_007', '获取品类列表', 'spark/devicetypes', '读', 'get', 'params', '', '', '', '{\"$.msg\": \"success\"}']" ]
+      }, {
+        "name" : "修改设备名称",
+        "uid" : "c281d01fa21bdf3f",
+        "parentUid" : "5ec56e5acb19289a654b41c9fccc3a4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613718405150,
+          "stop" : 1613718405334,
+          "duration" : 184
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['case_008', '修改设备名称', 'device/&$.case_004.data.devices[0].deviceId&/info', '读', 'put', 'json', '', '{\"naickName\": \"rename-device1\"}', '', '{\"$.msg\": \"success\"}']" ]
       } ],
       "uid" : "5ec56e5acb19289a654b41c9fccc3a4c"
     } ],

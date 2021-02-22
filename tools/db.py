@@ -1,8 +1,8 @@
 #!/usr/bin/env/python3
 # -*- coding:utf-8 -*-
 """
-@project: apiAutoTest
-@author: zy7y
+@project: apiTest
+@author: Tamia
 @file: db.py
 @ide: PyCharm
 @time: 2020/12/4

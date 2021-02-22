@@ -1,60 +1,60 @@
 [ {
-  "uid" : "b5dda47a460f7913",
-  "name" : "实现登录",
+  "uid" : "c281d01fa21bdf3f",
+  "name" : "修改设备名称",
   "time" : {
-    "start" : 1613702470300,
-    "stop" : 1613702470653,
-    "duration" : 353
+    "start" : 1613718405150,
+    "stop" : 1613718405334,
+    "duration" : 184
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3e89ba03a684686b",
-  "name" : "房间列表",
-  "time" : {
-    "start" : 1613702470815,
-    "stop" : 1613702471117,
-    "duration" : 302
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f4037d9912192fef",
+  "uid" : "84dec0e17b594bfd",
   "name" : "设备列表",
   "time" : {
-    "start" : 1613702471121,
-    "stop" : 1613702471240,
-    "duration" : 119
+    "start" : 1613718404508,
+    "stop" : 1613718404949,
+    "duration" : 441
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "efdf6fdd7b790587",
-  "name" : "创建项目",
+  "uid" : "ddea543f6296a42e",
+  "name" : "房间列表",
   "time" : {
-    "start" : 1613702471244,
-    "stop" : 1613702471532,
-    "duration" : 288
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "4fb4867fc186562",
-  "name" : "获取品类列表",
-  "time" : {
-    "start" : 1613702471612,
-    "stop" : 1613702471742,
-    "duration" : 130
+    "start" : 1613718404376,
+    "stop" : 1613718404504,
+    "duration" : 128
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8c06ff3458b069a4",
+  "uid" : "da6d3c8a0f37af89",
   "name" : "项目列表",
   "time" : {
-    "start" : 1613702470660,
-    "stop" : 1613702470811,
-    "duration" : 151
+    "start" : 1613718404254,
+    "stop" : 1613718404372,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcd31fe85efe9552",
+  "name" : "获取品类列表",
+  "time" : {
+    "start" : 1613718404953,
+    "stop" : 1613718405147,
+    "duration" : 194
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8eb41c1a1c9658a",
+  "name" : "实现登录",
+  "time" : {
+    "start" : 1613718403886,
+    "stop" : 1613718404250,
+    "duration" : 364
   },
   "status" : "passed",
   "severity" : "normal"

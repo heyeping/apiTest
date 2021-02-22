@@ -1,13 +1,11 @@
 #!/usr/bin/env/python3
 # -*- coding:utf-8 -*-
 """
-@project: apiAutoTest
-@author: zy7y
+@project: apiTest
+@author: Tamia
 @file: run.py
 @ide: PyCharm
 @time: 2020/12/16
-@github: https://github.com/zy7y
-@site: https://cnblogs.com/zy7y
 @desc: 运行文件
 """
 

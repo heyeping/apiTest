@@ -3,8 +3,8 @@
 
 """
 @Time : 2021/1/19 11:44
-@Author : zy7y
-@ProjectName : apiAutoTest
+@Author : Tamia
+@ProjectName : apiTest
 @File : data_clearing.py
 @Software : PyCharm
 @Github : https://github.com/zy7y

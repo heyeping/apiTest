@@ -3,81 +3,81 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "实现登录",
-    "uid" : "76dfec78aff5476",
+    "uid" : "d8eb41c1a1c9658a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1613543558340,
-      "stop" : 1613543560051,
-      "duration" : 1711
+      "start" : 1613718403886,
+      "stop" : 1613718404250,
+      "duration" : 364
     },
     "flaky" : false,
     "newFailed" : false,
-    "parameters" : [ "['case_001', '实现登录', 'user/login', '写', 'post', 'json', '', '{\"account\":\"13267925075\",\"password\":\"123456\"}', '', '{\"$.msg\": \"success\"}']" ]
+    "parameters" : [ "['case_001', '实现登录', 'user/login', '写', 'post', 'json', '', '{\"account\":\"18002549655\",\"password\":\"Hyp123456\"}', '', '{\"$.msg\": \"success\"}']" ]
   }, {
     "name" : "项目列表",
-    "uid" : "62d9884bfd52cfed",
+    "uid" : "da6d3c8a0f37af89",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1613543560055,
-      "stop" : 1613543560213,
-      "duration" : 158
+      "start" : 1613718404254,
+      "stop" : 1613718404372,
+      "duration" : 118
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "['case_002', '项目列表', 'constructbill', '读', 'get', 'params', '', '{\"pageNo\": 1, \"pageSize\": \"50\"}', '', '{\"$.msg\": \"success\"}']" ]
   }, {
     "name" : "房间列表",
-    "uid" : "f57108ea7511d01d",
+    "uid" : "ddea543f6296a42e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1613543560217,
-      "stop" : 1613543560493,
-      "duration" : 276
+      "start" : 1613718404376,
+      "stop" : 1613718404504,
+      "duration" : 128
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "['case_003', '房间列表', 'device/transfer/treelist', '读', 'get', 'params', '', '{\"billId\": &$.case_002.data.resultList[0].id&,  \"hotelId\": &$.case_002.data.resultList[0].businessId&}', '', '{\"$.msg\": \"success\"}']" ]
   }, {
     "name" : "设备列表",
-    "uid" : "b2a701759dcb39ad",
+    "uid" : "84dec0e17b594bfd",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1613543560498,
-      "stop" : 1613543560668,
-      "duration" : 170
+      "start" : 1613718404508,
+      "stop" : 1613718404949,
+      "duration" : 441
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "['case_004', '设备列表', 'device/list', '读', 'post', 'json', '', '{\"roomId\": &$.case_003.data[0].id&,\"pageNo\":1,\"pageSize\":2147483647}', '', '{\"$.msg\": \"success\"}']" ]
   }, {
-    "name" : "创建项目",
-    "uid" : "f6409a38971b6460",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1613543560672,
-      "stop" : 1613543564074,
-      "duration" : 3402
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "['case_005', '创建项目', 'constructbill', '读', 'post', 'json', '', '{\"title\":\"新的项目\",\"trade\":1,\"type\":1}', '', '{\"$.msg\": \"success\"}']" ]
-  }, {
     "name" : "获取品类列表",
-    "uid" : "d650ef137790e8c0",
+    "uid" : "dcd31fe85efe9552",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1613543564142,
-      "stop" : 1613543564602,
-      "duration" : 460
+      "start" : 1613718404953,
+      "stop" : 1613718405147,
+      "duration" : 194
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "['case_007', '获取品类列表', 'spark/devicetypes', '读', 'get', 'params', '', '', '', '{\"$.msg\": \"success\"}']" ]
+  }, {
+    "name" : "修改设备名称",
+    "uid" : "c281d01fa21bdf3f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613718405150,
+      "stop" : 1613718405334,
+      "duration" : 184
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "['case_008', '修改设备名称', 'device/&$.case_004.data.devices[0].deviceId&/info', '读', 'put', 'json', '', '{\"naickName\": \"rename-device1\"}', '', '{\"$.msg\": \"success\"}']" ]
   } ]
 }
